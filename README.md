@@ -16,7 +16,7 @@ Nişantaşı Üniversitesi Bilgisayar Programcılığı mezunuyum. Hem front-end
 * **Proje Tipi:** Ekip Projesi
 * **Açıklama:** Kamera üzerinden hareket algılandığında sesli uyarı veren, anlık ekran görüntüsü alıp belirlenen e-posta adresine otomatik olarak gönderen güvenlik yazılımı. Sisteme isteğe bağlı gece modu ve video kayıt özelliği entegre edilmiştir.
 * **Projedeki Rolüm:** Görüntü işleme mantığının kurulması ve e-posta API entegrasyonunun yazılması.
-* **Proje linki:** https://github.com/AhmedYasin1903/hareket_algilama
+* **Proje linki:** [https://github.com/AhmedYasin1903/hareket_algilama](https://github.com/Kasuyech/Hareket-Alg-lama-Sistemi)
 
 ### 2. Nöromorfik Bilişim Geliştirme Web Sitesi
 * **Teknolojiler:** React, Django, SQLite
